@@ -29,7 +29,7 @@ def findFilesNames(imgpath):
 def main():
 
     # Edit this line each time !!
-    imgPath = r'C:\Users\Ben\OneDrive\Desktop\bp_phone_postage_proof'
+    imgPath = r'M:\Images pack MK2 refill station'
 
     imagesNameList = findFilesNames(imgPath)
 
